@@ -15,3 +15,5 @@ s1 = students("alice",20,90.1)
 s2 = students("Bobby",22, 89.31)
 print(s1)
 print(s1==s2)
+
+
