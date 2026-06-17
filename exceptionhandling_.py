@@ -6,3 +6,4 @@ def kelvinToFahrenheit(Temperature):
 print(kelvinToFahrenheit(273))
 print(int(kelvinToFahrenheit(505.78)))
 print(kelvinToFahrenheit(-5))
+
