@@ -1,4 +1,7 @@
 import pandas as pd
+
 df = pd.read_csv("employee_sheet.csv")
 
-print(df)
+result = df[df["Salary"] > 55000]
+
+print(result)

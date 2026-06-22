@@ -1,4 +1,7 @@
 import pandas as pd
+
 df = pd.read_csv("employee_sheet.csv")
 
-print(df)
+df["Hike"] = df["Salary"] * 0.11
+
+print(df)   
