@@ -1,0 +1,11 @@
+order_id,user_id,category,product,quantity,amount,order_date
+1001,U001,Electronics,Phone,1,25000,2025-02-01
+1002,U002,Fashion,Shirt,2,1200,2025-02-01
+1003,U003,Electronics,Laptop,1,65000,2025-02-02
+1004,U004,Home,Mixer,1,3500,2025-02-02
+1005,U005,Fashion,Shoes,2,2500,2025-02-03
+1006,U001,Electronics,Earbuds,3,1500,2025-02-03
+1007,U006,Home,Chair,2,4500,2025-02-04
+1008,U007,Electronics,Tablet,1,18000,2025-02-04
+1009,U008,Fashion,Jeans,2,1800,2025-02-05
+1010,U009,Home,Table,1,7000,2025-02-05
