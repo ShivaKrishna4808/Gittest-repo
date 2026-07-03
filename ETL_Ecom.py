@@ -43,3 +43,5 @@ category_sales.write \
 print("ETL Completed")
 
 spark.stop()
+
+# spark stopped!!
